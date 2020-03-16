@@ -5,7 +5,7 @@
 npm install
 ```
 
-## Configure or create .env file
+## Configure or create .env file on findandreplace folder directory
 ```
 MAIN_DIRECTORY=/your_path
 MATCHING_WORD=matchingWord
